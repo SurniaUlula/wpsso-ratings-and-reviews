@@ -3,7 +3,7 @@
 <table>
 <tr><th align="right" valign="top" nowrap>Plugin Name</th><td>WPSSO Ratings and Reviews</td></tr>
 <tr><th align="right" valign="top" nowrap>Summary</th><td>Ratings and Reviews for WordPress Comments with Schema Aggregate Rating and Schema Review Markup.</td></tr>
-<tr><th align="right" valign="top" nowrap>Stable Version</th><td>2.13.0</td></tr>
+<tr><th align="right" valign="top" nowrap>Stable Version</th><td>2.13.1</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires PHP</th><td>7.0 or newer</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires WordPress</th><td>4.5 or newer</td></tr>
 <tr><th align="right" valign="top" nowrap>Tested Up To WordPress</th><td>5.6.2</td></tr>
